@@ -92,7 +92,7 @@ Used React, JavaScript, CSS3, and HTML5.
 Integrated Chart.js visualizations for agricultural insights.
 ## 💼 Internship Experience
 
-Frontend Developer Intern – Connect Infosystem
+### Frontend Developer Intern – Connect Infosystem
 
 Designed and developed a responsive e-commerce website.
 Used HTML, CSS, and JavaScript.
@@ -108,9 +108,9 @@ B.Tech – Information Technology | August 2023 – Present
 Percentage: 79.83%
 
 ### 📜 Certifications
-NPTEL – Understanding Incubation and Entrepreneurship
-AWS – AWS Certified Cloud Practitioner
-Google Cloud – Google Cloud Career Launchpad Data Analytics Track
+** NPTEL – Understanding Incubation and Entrepreneurship
+** AWS – AWS Certified Cloud Practitioner
+* Google Cloud – Google Cloud Career Launchpad Data Analytics Track
 Microsoft & LinkedIn – Career Essentials in Generative AI
 Amazon Web Services – AWS Cloud Solutions Architect
 📊 GitHub Statistics
