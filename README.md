@@ -1,7 +1,7 @@
-👋 Hi, I'm Monish R.
-💻 Full Stack Web Developer | Aspiring Software Tester
+#👋 Hi, I'm Monish R.
+## 💻 Full Stack Web Developer | Aspiring Software Tester
 
-🚀 Passionate about building modern, responsive web applications and developing reliable software testing solutions.
+### 🚀 Passionate about building modern, responsive web applications and developing reliable software testing solutions.
 
 I am a Full Stack Web Developer with hands-on experience in React.js, Next.js, Node.js, Python, Selenium, and Pytest. I enjoy creating user-friendly applications, developing REST APIs, and automating software testing.
 
@@ -20,7 +20,7 @@ I am a Full Stack Web Developer with hands-on experience in React.js, Next.js, N
 </a>
 </p>
 
-🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 🔭 Currently working on Full Stack Web Development projects.
 🌱 Learning advanced React.js, Node.js, Selenium, and Automation Testing.
 💡 Interested in Web Development, Software Testing, and Artificial Intelligence.
@@ -28,7 +28,7 @@ I am a Full Stack Web Developer with hands-on experience in React.js, Next.js, N
 🎯 Goal: To become a skilled Full Stack Developer and Software Quality Engineer.
 📫 Reach me: **rmonish543@gmail.com**
 🛠️ Tech Stack & Skills
-🎨 Frontend Development
+### 🎨 Frontend Development
 
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
@@ -40,7 +40,7 @@ I am a Full Stack Web Developer with hands-on experience in React.js, Next.js, N
 <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" /></a>
 </p>
 
-⚙️ Backend Development
+### ⚙️ Backend Development
 
 <p>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
@@ -49,7 +49,7 @@ I am a Full Stack Web Developer with hands-on experience in React.js, Next.js, N
 <a href="https://www.w3schools.com/sql/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 </p>
 
-🧪 Testing & Automation
+### 🧪 Testing & Automation
 
 <p>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
@@ -58,7 +58,7 @@ I am a Full Stack Web Developer with hands-on experience in React.js, Next.js, N
 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
 </p>
 
-🔧 Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
@@ -69,7 +69,7 @@ I am a Full Stack Web Developer with hands-on experience in React.js, Next.js, N
 <a href="https://render.com/"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>
 </p>
 
-🚀 Featured Projects
+### 🚀 Featured Projects
 1. TESTORA – Quality Engineering Platform
 Developed a web-based test automation dashboard using React and FastAPI.
 Implemented automated testing using Python, Selenium WebDriver, and Pytest.
@@ -125,7 +125,7 @@ Amazon Web Services – AWS Cloud Solutions Architect
 </a>
 </p>
 
-🤝 Let's Connect!
+### 🤝 Let's Connect!
 
 <p align="center">
 <a href="https://github.com/monishr288">
@@ -148,5 +148,5 @@ Amazon Web Services – AWS Cloud Solutions Architect
 </p>
 
 <p align="center">
-Thanks for visiting my profile! 😊
+### Thanks for visiting my profile! 😊
 </p>
