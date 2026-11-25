@@ -26,8 +26,7 @@ I am a Full Stack Web Developer with hands-on experience in React.js, Next.js, N
 💡 Interested in Web Development, Software Testing, and Artificial Intelligence.
 🧪 Experienced in Manual Testing and Automation Testing.
 🎯 Goal: To become a skilled Full Stack Developer and Software Quality Engineer.
-📫 Reach me: **rmonish543@gmail.com**
-🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 ### 🎨 Frontend Development
 
 <p>
