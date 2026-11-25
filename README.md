@@ -97,7 +97,7 @@ Frontend Developer Intern – Connect Infosystem
 Designed and developed a responsive e-commerce website.
 Used HTML, CSS, and JavaScript.
 Improved website usability and user experience.
-🎓 Education
+## 🎓 Education
 
 ### Saveetha Engineering College
 
