@@ -108,11 +108,11 @@ B.Tech – Information Technology | August 2023 – Present
 Percentage: 79.83%
 
 ### 📜 Certifications
-** NPTEL – Understanding Incubation and Entrepreneurship
-** AWS – AWS Certified Cloud Practitioner
+* NPTEL – Understanding Incubation and Entrepreneurship
+* AWS – AWS Certified Cloud Practitioner
 * Google Cloud – Google Cloud Career Launchpad Data Analytics Track
-Microsoft & LinkedIn – Career Essentials in Generative AI
-Amazon Web Services – AWS Cloud Solutions Architect
+* Microsoft & LinkedIn – Career Essentials in Generative AI
+* Amazon Web Services – AWS Cloud Solutions Architect
 📊 GitHub Statistics
 
 <p align="center">
