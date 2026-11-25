@@ -1,4 +1,4 @@
-#👋 Hi, I'm Monish R.
+# 👋 Hi, I'm Monish R.
 ## 💻 Full Stack Web Developer | Aspiring Software Tester
 
 ### 🚀 Passionate about building modern, responsive web applications and developing reliable software testing solutions.
