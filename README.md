@@ -69,23 +69,28 @@ I am a Full Stack Web Developer with hands-on experience in React.js, Next.js, N
 <a href="https://render.com/"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>
 </p>
 
-### 🚀 Featured Projects
-1. TESTORA – Quality Engineering Platform
+## 🚀 Featured Projects
+### 1. TESTORA – Quality Engineering Platform
 Developed a web-based test automation dashboard using React and FastAPI.
 Implemented automated testing using Python, Selenium WebDriver, and Pytest.
 Features include login, product selection, shopping cart, and checkout testing.
-2. Portfolio Website
+### 2.PEAR-UWSN– Final Year Research Project
+Technologies: React, TypeScript, Node.js, Express, Socket.IO, SQLite, NS-3, Python
+• Building a research and simulation platform for predictive, environment-aware routing in Underwater Wireless
+Sensor Networks, with a React/TypeScript dashboard and a Node.js/Express backend using real-time Socket.IO
+updates.
+• Evaluated the routing approach against a reactive baseline across 270 NS-3 and Aqua-Sim-NG simulation runs (3
+mobility scenarios, 3 network densities, 10 paired seeds), with statistical analysis in Python
+### 3. Portfolio Website
 Developed a full-stack portfolio using Next.js, React, Node.js, and Express.js.
 Integrated Nodemailer for automated email notifications.
 Created responsive UI with Framer Motion animations and dark/light mode.
 
-🌐 Visit My Portfolio
-
-3. Crop-Yield-Predictor
+### 4. Crop-Yield-Predictor
 Developed an AI-powered agricultural web application to predict crop yields.
 Used React, JavaScript, CSS3, and HTML5.
 Integrated Chart.js visualizations for agricultural insights.
-💼 Internship Experience
+## 💼 Internship Experience
 
 Frontend Developer Intern – Connect Infosystem
 
@@ -94,15 +99,15 @@ Used HTML, CSS, and JavaScript.
 Improved website usability and user experience.
 🎓 Education
 
-Saveetha Engineering College
+### Saveetha Engineering College
 
 B.Tech – Information Technology | August 2023 – Present
 
-SSKV Matriculation Hr. Sec. School, Kanchipuram
+### SSKV Matriculation Hr. Sec. School, Kanchipuram
 
 Percentage: 79.83%
 
-📜 Certifications
+### 📜 Certifications
 NPTEL – Understanding Incubation and Entrepreneurship
 AWS – AWS Certified Cloud Practitioner
 Google Cloud – Google Cloud Career Launchpad Data Analytics Track
@@ -148,5 +153,5 @@ Amazon Web Services – AWS Cloud Solutions Architect
 </p>
 
 <p align="center">
-### Thanks for visiting my profile! 😊
+###  Thanks for visiting my profile! 😊
 </p>
